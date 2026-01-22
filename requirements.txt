@@ -1,0 +1,13 @@
+tensorflow==2.15
+keras==2.15
+matplotlib
+pandas
+numpy
+google.generativeai
+requests
+flask
+gunicorn
+scikit-learn
+opencv-python
+flask-cors
+Pillow
